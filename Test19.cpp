@@ -1,4 +1,4 @@
-//Size of array
+
 #include<iostream>
 using namespace std;
 int main(){
